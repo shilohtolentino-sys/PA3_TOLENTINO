@@ -1,13 +1,12 @@
 # ECE 2112: Advanced Computer Programming and Algorithms
 ## Experiment 4: Data Wrangling and Data Visualization
 
-**Name:** [Your Name]  
-**Section:** 2ECE-[Section]  
-**Date Submitted:** September 20, 2026  
+**Name:** Shiloh R. Tolentino  
+**Section:** 2ECE-A 
 
 ---
 
-## A. Overview of the Assignment
+## A. Overview
 
 This repository contains the Python implementation for **Experiment 4**, focusing on data wrangling, multi-condition filtering, feature selection, categorical aggregations, and data visualization using `pandas`, `matplotlib`, and `seaborn` on the ECE Board Exam dataset (`board2.csv`).
 
@@ -19,7 +18,7 @@ The experiment demonstrates how to:
 
 ---
 
-## B. Discussion of Each Problem
+## B. Discussion
 
 ### Problem A: Visayas Communication DataFrame (`VisComm`)
 * **Objective:** Filter for students whose `Hometown` is **Visayas** AND whose `Track` is **Communication**, retaining only `Name`, `Gender`, `Math`, `Electronics`, and `Average`.
